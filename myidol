@@ -1,0 +1,50 @@
+[
+  {
+    "idIdol": 1,
+    "nameIdol": "Lily",
+    "ageIdol": "19",
+    "roleIdol": "main vocal",
+    "imageIdol": "lily.png",
+    "nameGGIdol": "NMIXX"
+  },
+  {
+    "idIdol": 2,
+    "nameIdol": "Kyujin",
+    "ageIdol": "16",
+    "roleIdol": "main dancer",
+    "imageIdol": "kyujin.png",
+    "nameGGIdol": "NMIXX"
+  },
+  {
+    "idIdol": 3,
+    "nameIdol": "Haewon",
+    "ageIdol": "19",
+    "roleIdol": "lead vocal",
+    "imageIdol": "haewon.png",
+    "nameGGIdol": "NMIXX"
+  },
+  {
+    "idIdol": 4,
+    "nameIdol": "Bae",
+    "ageIdol": "17",
+    "roleIdol": "sub vocal",
+    "imageIdol": "bae.png",
+    "nameGGIdol": "NMIXX"
+  },
+  {
+    "idIdol": 5,
+    "nameIdol": "Jiwoo",
+    "ageIdol": "17",
+    "roleIdol": "main rapper",
+    "imageIdol": "jiwoo.png",
+    "nameGGIdol": "NMIXX"
+  },
+  {
+    "idIdol": 6,
+    "nameIdol": "Sullyoon",
+    "ageIdol": "18",
+    "roleIdol": "sub vocal",
+    "imageIdol": "sullyoon.png",
+    "nameGGIdol": "NMIXX"
+  }
+]
